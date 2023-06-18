@@ -1,0 +1,566 @@
+<hotbar>
+    <battle>
+        <hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Cure</action>
+				<target>t</target>
+				<alias>Cure</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Cure II</action>
+				<target>t</target>
+				<alias>Cure 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>t</target>
+				<alias>Cure 3</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>t</target>
+				<alias>Cure 4</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Regen II</action>
+				<target>t</target>
+				<alias>Regen 2</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Refresh II</action>
+				<target>t</target>
+				<alias>Fresh 2</alias>
+			</slot_6>
+			<slot_8>
+				<type>ma</type>
+				<action>Temper</action>
+				<target>me</target>
+				<alias>Temper</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Aquaveil</action>
+				<target>me</target>
+				<alias>Veil</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Stoneskin</action>
+				<target>me</target>
+				<alias>SS</alias>
+			</slot_0>
+		</hotbar_3>
+        <hotbar_2>
+		</hotbar_2>
+        <hotbar_1>
+            <slot_1>
+                <type>ws</type>
+                <action>Chant du Cygne</action>
+				<target>t</target>
+                <alias>CDC</alias>
+            </slot_1>
+            <slot_2>
+				<type>ws</type>
+                <action>Savage Blade</action>
+				<target>t</target>
+                <alias>Sav Bl</alias>
+            </slot_2>
+			<slot_3>
+				<type>ws</type>
+                <action>Requiescat</action>
+				<target>t</target>
+                <alias>Req</alias>
+            </slot_3>
+			<slot_9>
+                <type>ja</type>
+                <action>Composure</action>
+				<target>me</target>
+                <alias>Composure</alias>
+            </slot_9>
+        </hotbar_1>
+    </battle>
+    <field>
+        <hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Cure</action>
+				<target>t</target>
+				<alias>Cure</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Cure II</action>
+				<target>t</target>
+				<alias>Cure 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>t</target>
+				<alias>Cure 3</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>t</target>
+				<alias>Cure 4</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Regen II</action>
+				<target>t</target>
+				<alias>Regen 2</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Refresh II</action>
+				<target>t</target>
+				<alias>Fresh 2</alias>
+			</slot_6>
+			<slot_8>
+				<type>ma</type>
+				<action>Temper</action>
+				<target>me</target>
+				<alias>Temper</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Aquaveil</action>
+				<target>me</target>
+				<alias>Veil</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Stoneskin</action>
+				<target>me</target>
+				<alias>SS</alias>
+			</slot_0>
+		</hotbar_3>
+        <hotbar_2>
+			<slot_2>
+				<type>ma</type>
+				<action>Protect V</action>
+				<target>t</target>
+				<alias>Prot5</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Shell V</action>
+				<target>t</target>
+				<alias>Shell 5</alias>
+			</slot_3>
+			<slot_9>
+				<type>ma</type>
+				<action>Haste II</action>
+				<target>t</target>
+				<alias>Haste 2</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Phalanx II</action>
+				<target>t</target>
+				<alias>Phal 2</alias>
+			</slot_0>
+		</hotbar_2>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_3>
+				<type>item</type>
+				<action>Echo Drops</action>
+				<target>me</target>
+				<alias>Echo Drops</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_4>
+			<slot_5>
+				<type>wc</type>
+				<action>trusts fight</action>
+				<alias>Trusts</alias>
+			</slot_5>
+			<slot_6>
+                <icon>return-trust</icon>
+                <type>ct</type>
+                <action>returntrust all</action>
+                <alias>No Trusts</alias>
+            </slot_6>
+			<slot_7>
+                <type>ja</type>
+                <action>Convert</action>
+				<target>me</target>
+                <alias>Convert</alias>
+            </slot_7>
+			<slot_9>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeeb</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+    </field>
+	<light_arts>
+		<hotbar_3>
+		</hotbar_3>
+		<hotbar_2>
+			<slot_1>
+                <type>ja</type>
+                <action>Accession</action>
+				<target>me</target>
+                <alias>Accession</alias>
+            </slot_1>
+		</hotbar_2>
+		<hotbar_1>
+			<slot_1>
+				<type>wc</type>
+				<action>htb environment field</action>
+                <alias>Go Back</alias>
+			</slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Ad: White</alias>
+            </slot_2>
+			<slot_3>
+				<type>item</type>
+				<action>Echo Drops</action>
+				<target>me</target>
+				<alias>Echo Drops</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Reraise</action>
+				<target>me</target>
+				<alias>Reraise</alias>
+			</slot_5>
+		</hotbar_1>
+	</light_arts>
+	<dark_arts>
+		<hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Stone IV</action>
+				<target>t</target>
+				<alias>Stone 4</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Water IV</action>
+				<target>t</target>
+				<alias>Water 4</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Aero IV</action>
+				<target>t</target>
+				<alias>Aero 4</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Fire IV</action>
+				<target>t</target>
+				<alias>Fire 4</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Blizzard IV</action>
+				<target>t</target>
+				<alias>Blizz 4</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Thunder IV</action>
+				<target>t</target>
+				<alias>Thunder 4</alias>
+			</slot_6>
+		</hotbar_3>
+		<hotbar_2>
+		</hotbar_2>
+		<hotbar_1>
+			<slot_9>
+                <type>ja</type>
+                <action>Manifestation</action>
+				<target>me</target>
+                <alias>Manifestation</alias>
+            </slot_9>
+			<slot_0>
+				<type>wc</type>
+				<action>htb environment field</action>
+                <alias>Go Back</alias>
+			</slot_0>
+		</hotbar_1>
+	</dark_arts>
+	<enfeebling>
+		<hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Dia III</action>
+				<target>stnpc</target>
+				<alias>Dia 3</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Poison II</action>
+				<target>stnpc</target>
+				<alias>Poison 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Blind II</action>
+				<target>stnpc</target>
+				<alias>Blind 2</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Paralyze II</action>
+				<target>stnpc</target>
+				<alias>Para 2</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Slow II</action>
+				<target>stnpc</target>
+				<alias>Slow 2</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Gravity II</action>
+				<target>stnpc</target>
+				<alias>Grav 2</alias>
+			</slot_6>
+			<slot_7>
+				<type>ma</type>
+				<action>Dispel</action>
+				<target>stnpc</target>
+				<alias>Dispel</alias>
+			</slot_7>
+			<slot_8>
+				<type>ma</type>
+				<action>Bind</action>
+				<target>stnpc</target>
+				<alias>Bind</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Sleep</action>
+				<target>stnpc</target>
+				<alias>Sleep</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Sleep II</action>
+				<target>stnpc</target>
+				<alias>Sleep 2</alias>
+			</slot_0>
+		</hotbar_3>
+		<hotbar_2>
+			<slot_1>
+				<type>ma</type>
+				<action>Distract II</action>
+				<target>stnpc</target>
+				<alias>Ph Eva 2</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Frazzle II</action>
+				<target>stnpc</target>
+				<alias>Ma Eva 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Addle</action>
+				<target>stnpc</target>
+				<alias>Addle</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Bio III</action>
+				<target>stnpc</target>
+				<alias>Bio 3</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Silence</action>
+				<target>stnpc</target>
+				<alias>Silence</alias>
+			</slot_5>
+			<slot_0>
+				<type>ma</type>
+				<action>Break</action>
+				<target>stnpc</target>
+				<alias>Break</alias>
+			</slot_0>
+		</hotbar_2>
+		<hotbar_1>
+			<slot_8>
+				<type>ja</type>
+                <action>Saboteur</action>
+				<target>me</target>
+                <alias>Enf Eff Dur</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Manifestation</action>
+				<target>me</target>
+                <alias>Manifestation</alias>
+            </slot_9>
+			<slot_0>
+				<type>wc</type>
+				<action>htb environment field</action>
+                <alias>Go Back</alias>
+			</slot_0>
+		</hotbar_1>
+	</enfeebling>
+	<healing>
+		<hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Cure</action>
+				<target>t</target>
+				<alias>Cure</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Cure II</action>
+				<target>t</target>
+				<alias>Cure 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>t</target>
+				<alias>Cure 3</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>t</target>
+				<alias>Cure 4</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Regen II</action>
+				<target>t</target>
+				<alias>Regen 2</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Refresh II</action>
+				<target>t</target>
+				<alias>Fresh 2</alias>
+			</slot_6>
+		</hotbar_3>
+		<hotbar_2>
+			<slot_1>
+                <type>ja</type>
+                <action>Accession</action>
+				<target>me</target>
+                <alias>Accession</alias>
+            </slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Protect V</action>
+				<target>t</target>
+				<alias>Prot5</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Shell V</action>
+				<target>t</target>
+				<alias>Shell 5</alias>
+			</slot_3>
+			<slot_9>
+				<type>ma</type>
+				<action>Haste II</action>
+				<target>t</target>
+				<alias>Haste 2</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Phalanx II</action>
+				<target>t</target>
+				<alias>Phal 2</alias>
+			</slot_0>
+		</hotbar_2>
+		<hotbar_1>
+			<slot_1>
+				<type>wc</type>
+				<action>htb environment field</action>
+                <alias>Go Back</alias>
+			</slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+				<type>item</type>
+				<action>Echo Drops</action>
+				<target>me</target>
+				<alias>Echo Drops</alias>
+			</slot_3>
+			<slot_5>
+				<type>ma</type>
+				<action>Erase</action>
+				<target>t</target>
+				<alias>Erase</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Cursna</action>
+				<target>t</target>
+				<alias>Cursna</alias>
+			</slot_6>
+			<slot_7>
+				<type>ma</type>
+				<action>Silena</action>
+				<target>t</target>
+				<alias>Silena</alias>
+			</slot_7>
+			<slot_8>
+				<type>ma</type>
+				<action>Blindna</action>
+				<target>t</target>
+				<alias>Blindna</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Paralyna</action>
+				<target>t</target>
+				<alias>Paralyna</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Poisona</action>
+				<target>t</target>
+				<alias>Poisona</alias>
+			</slot_0>
+		</hotbar_1>
+	</healing>
+</hotbar>

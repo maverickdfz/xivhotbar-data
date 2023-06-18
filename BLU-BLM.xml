@@ -1,0 +1,141 @@
+<hotbar>
+    <cleave>
+        <hotbar_3>
+            <slot_1>
+                <target>t</target>
+                <type>ma</type>
+                <action>Magic Hammer</action>
+                <alias>Magic Hammer</alias>
+            </slot_1>
+        </hotbar_3>
+        <hotbar_4>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Cocoon</action>
+                <alias>Cocoon</alias>
+            </slot_1>
+            <slot_2>
+                <target>me</target>
+                <type>ma</type>
+                <action>Barrier Tusk</action>
+                <alias>Barrier Tusk</alias>
+            </slot_2>
+            <slot_3>
+                <target>me</target>
+                <type>ma</type>
+                <action>Diamondhide</action>
+                <alias>Diamondhide</alias>
+            </slot_3>
+            <slot_4>
+                <target>me</target>
+                <type>ma</type>
+                <action>Occultation</action>
+                <alias>Occultation</alias>
+            </slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ma</type>
+                <action>Dream Flower</action>
+                <alias>Dream Flower</alias>
+            </slot_5>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Tenebral Crush</action>
+                <alias>Tenebral Crush</alias>
+            </slot_6>
+            <slot_7>
+                <target>t</target>
+                <type>ma</type>
+                <action>Spectral Floe</action>
+                <alias>Spectral Floe</alias>
+            </slot_7>
+        </hotbar_4>
+        <hotbar_2>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Magic Fruit</action>
+                <alias>Magic Fruit</alias>
+            </slot_1>
+            <slot_2>
+                <target>me</target>
+                <type>ma</type>
+                <action>Battery Charge</action>
+                <alias>Battery Charge</alias>
+            </slot_2>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_1>
+                <icon>disengage</icon>
+                <type>ct</type>
+                <action>attack off</action>
+                <alias>Disengage</alias>
+            </slot_1>
+            <slot_2>
+                <icon>check</icon>
+                <type>ct</type>
+                <action>check</action>
+                <alias>Check</alias>
+            </slot_2>
+        </hotbar_1>
+    </cleave>
+    <battle>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2></hotbar_2>
+        <hotbar_1>
+            <slot_1>
+                <icon>disengage</icon>
+                <type>ct</type>
+                <action>attack off</action>
+                <alias>Disengage</alias>
+            </slot_1>
+            <slot_2>
+                <icon>check</icon>
+                <type>ct</type>
+                <action>check</action>
+                <alias>Check</alias>
+            </slot_2>
+        </hotbar_1>
+    </battle>
+    <field>
+        <hotbar_3></hotbar_3>
+        <hotbar_4>
+            <slot_0>
+                <icon>cleave</icon>
+                <type>ct</type>
+                <action>xivhotbar environment cleave</action>
+                <alias>Cleave</alias>
+            </slot_0>
+        </hotbar_4>
+        <hotbar_2></hotbar_2>
+        <hotbar_1>
+            <slot_0>
+                <icon>heal</icon>
+                <type>ct</type>
+                <action>heal</action>
+                <alias>Heal</alias>
+            </slot_0>
+            <slot_9>
+                <icon>return-trust</icon>
+                <type>ct</type>
+                <action>returntrust all</action>
+                <alias>No Trusts</alias>
+            </slot_9>
+            <slot_2>
+                <icon>check</icon>
+                <type>ct</type>
+                <action>check</action>
+                <alias>Check</alias>
+            </slot_2>
+            <slot_1>
+                <icon>attack</icon>
+                <type>ct</type>
+                <action>attack on</action>
+                <alias>Attack</alias>
+            </slot_1>
+        </hotbar_1>
+    </field>
+</hotbar>

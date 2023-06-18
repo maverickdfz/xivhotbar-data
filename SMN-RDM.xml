@@ -1,0 +1,673 @@
+<hotbar>
+    <fenrir>
+        <hotbar_3>
+            <slot_0>
+                <target>me</target>
+                <type>pet</type>
+                <action>Ecliptic Howl</action>
+                <alias>Ecliptic Howl (Acc/Eva)</alias>
+            </slot_0>
+            <slot_9>
+                <target>me</target>
+                <type>pet</type>
+                <action>Ecliptic Growl</action>
+                <alias>Ecliptic Growl (Stats)</alias>
+            </slot_9>
+        </hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Eclipse Bite</action>
+                <alias>Eclipse Bite</alias>
+            </slot_0>
+            <slot_9>
+                <target>t</target>
+                <type>pet</type>
+                <action>Impact</action>
+                <alias>Impact</alias>
+            </slot_9>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </fenrir>
+    <titan>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Volt Strike</action>
+                <alias>Volt Strike</alias>
+            </slot_0>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </titan>
+    <shiva>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Volt Strike</action>
+                <alias>Volt Strike</alias>
+            </slot_0>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </shiva>
+    <cait_sith>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Reraise II</action>
+                <alias>Reraise II</alias>
+            </slot_0>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <type>pet</type>
+                <action>Retreat</action>
+                <target>me</target>
+                <next_environment>cait_sith</next_environment>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </cait_sith>
+    <diabolos>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Volt Strike</action>
+                <alias>Volt Strike</alias>
+            </slot_0>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </diabolos>
+    <battle>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_1>
+                <type>ws</type>
+                <action>Garland of Bliss</action>
+                <alias>Garland of Bliss</alias>
+            </slot_1>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_1>
+                <icon>disengage</icon>
+                <type>ct</type>
+                <action>attack off</action>
+                <alias>Disengage</alias>
+            </slot_1>
+            <slot_2>
+                <icon>check</icon>
+                <type>ct</type>
+                <action>check</action>
+                <alias>Check</alias>
+            </slot_2>
+        </hotbar_1>
+    </battle>
+    <ifrit>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Flaming Crush</action>
+                <alias>Flaming Crush</alias>
+            </slot_0>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </ifrit>
+    <garuda>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Hastega II</action>
+                <alias>Hastega II</alias>
+            </slot_0>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </garuda>
+    <leviathan>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Volt Strike</action>
+                <alias>Volt Strike</alias>
+            </slot_0>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </leviathan>
+    <carbuncle>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Meteor</action>
+                <alias>Meteor</alias>
+            </slot_0>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </carbuncle>
+    <ramuh>
+        <hotbar_3></hotbar_3>
+        <hotbar_4></hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>t</target>
+                <type>pet</type>
+                <action>Volt Strike</action>
+                <alias>Volt Strike</alias>
+            </slot_0>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_5>
+                <type>pet</type>
+                <action>Release</action>
+                <target>me</target>
+                <next_environment>field</next_environment>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </ramuh>
+    <field>
+        <hotbar_3>
+            <slot_9>
+                <target>me</target>
+                <type>ma</type>
+                <action>Light Spirit</action>
+                <alias>Light Spirit</alias>
+            </slot_9>
+            <slot_7>
+                <target>me</target>
+                <type>ma</type>
+                <action>Ice Spirit</action>
+                <alias>Ice Spirit</alias>
+            </slot_7>
+            <slot_6>
+                <target>me</target>
+                <type>ma</type>
+                <action>Fire Spirit</action>
+                <alias>Fire Spirit</alias>
+            </slot_6>
+            <slot_0>
+                <target>me</target>
+                <type>ma</type>
+                <action>Dark Spirit</action>
+                <alias>Dark Spirit</alias>
+            </slot_0>
+            <slot_4>
+                <target>me</target>
+                <type>ma</type>
+                <action>Water Spirit</action>
+                <alias>Water Spirit</alias>
+            </slot_4>
+            <slot_5>
+                <target>me</target>
+                <type>ma</type>
+                <action>Air Spirit</action>
+                <alias>Air Spirit</alias>
+            </slot_5>
+            <slot_8>
+                <target>me</target>
+                <type>ma</type>
+                <action>Thunder Spirit</action>
+                <alias>Thunder Spirit</alias>
+            </slot_8>
+            <slot_3>
+                <target>me</target>
+                <type>ma</type>
+                <action>Earth Spirit</action>
+                <alias>Earth Spirit</alias>
+            </slot_3>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Siren</action>
+                <alias>Siren</alias>
+            </slot_1>
+        </hotbar_3>
+        <hotbar_4>
+            <slot_2>
+                <type>ma</type>
+                <action>Titan</action>
+                <target>me</target>
+                <next_environment>titan</next_environment>
+                <alias>Titan</alias>
+            </slot_2>
+            <slot_7>
+                <type>ma</type>
+                <action>Ramuh</action>
+                <target>me</target>
+                <next_environment>ramuh</next_environment>
+                <alias>Ramuh</alias>
+            </slot_7>
+            <slot_0>
+                <type>ma</type>
+                <action>Cait Sith</action>
+                <target>me</target>
+                <next_environment>cait_sith</next_environment>
+                <alias>Cait Sith</alias>
+            </slot_0>
+            <slot_6>
+                <type>ma</type>
+                <action>Shiva</action>
+                <target>me</target>
+                <next_environment>shiva</next_environment>
+                <alias>Shiva</alias>
+            </slot_6>
+            <slot_9>
+                <type>ma</type>
+                <action>Fenrir</action>
+                <target>me</target>
+                <next_environment>fenrir</next_environment>
+                <alias>Fenrir</alias>
+            </slot_9>
+            <slot_4>
+                <type>ma</type>
+                <action>Garuda</action>
+                <target>me</target>
+                <next_environment>garuda</next_environment>
+                <alias>Garuda</alias>
+            </slot_4>
+            <slot_5>
+                <type>ma</type>
+                <action>Ifrit</action>
+                <target>me</target>
+                <next_environment>ifrit</next_environment>
+                <alias>Ifrit</alias>
+            </slot_5>
+            <slot_8>
+                <type>ma</type>
+                <action>Diabolos</action>
+                <target>me</target>
+                <next_environment>diabolos</next_environment>
+                <alias>Diabolos</alias>
+            </slot_8>
+            <slot_3>
+                <type>ma</type>
+                <action>Leviathan</action>
+                <target>me</target>
+                <next_environment>leviathan</next_environment>
+                <alias>Leviathan</alias>
+            </slot_3>
+            <slot_1>
+                <type>ma</type>
+                <action>Carbuncle</action>
+                <target>me</target>
+                <next_environment>cait_sith</next_environment>
+                <alias>Carbuncle</alias>
+            </slot_1>
+        </hotbar_4>
+        <hotbar_2>
+            <slot_0>
+                <target>me</target>
+                <type>ma</type>
+                <action>Refresh</action>
+                <alias>Refresh</alias>
+            </slot_0>
+            <slot_2>
+                <target>me</target>
+                <type>ma</type>
+                <action>Alexander</action>
+                <alias>Alexander</alias>
+            </slot_2>
+            <slot_9>
+                <target>me</target>
+                <type>ma</type>
+                <action>Stoneskin</action>
+                <alias>Stoneskin</alias>
+            </slot_9>
+            <slot_8>
+                <target>me</target>
+                <type>ma</type>
+                <action>Aquaveil</action>
+                <alias>Aquaveil</alias>
+            </slot_8>
+            <slot_3>
+                <target>me</target>
+                <type>ma</type>
+                <action>Atomos</action>
+                <alias>Atomos</alias>
+            </slot_3>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Odin</action>
+                <alias>Odin</alias>
+            </slot_1>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_2>
+                <icon>check</icon>
+                <type>ct</type>
+                <action>check</action>
+                <alias>Check</alias>
+            </slot_2>
+            <slot_7>
+                <type>ct</type>
+                <action>mount Levitus</action>
+                <target>me</target>
+                <alias>Levitus</alias>
+                <icon>mounts/mount-levitus</icon>
+            </slot_7>
+            <slot_0>
+                <icon>heal</icon>
+                <type>ct</type>
+                <action>heal</action>
+                <alias>Heal</alias>
+            </slot_0>
+            <slot_6>
+                <target>me</target>
+                <type>ja</type>
+                <action>Avatar&apos;s Favor</action>
+                <alias>Avatar&apos;s Favor</alias>
+            </slot_6>
+            <slot_9>
+                <icon>return-trust</icon>
+                <type>ct</type>
+                <action>returntrust all</action>
+                <alias>No Trusts</alias>
+            </slot_9>
+            <slot_4>
+                <target>me</target>
+                <type>pet</type>
+                <action>Retreat</action>
+                <alias>Retreat</alias>
+            </slot_4>
+            <slot_5>
+                <target>me</target>
+                <type>pet</type>
+                <action>Release</action>
+                <alias>Release</alias>
+            </slot_5>
+            <slot_8>
+                <type>wc</type>
+                <action>trusts buffs</action>
+                <alias>Trusts</alias>
+            </slot_8>
+            <slot_1>
+                <icon>attack</icon>
+                <type>ct</type>
+                <action>attack on</action>
+                <alias>Attack</alias>
+            </slot_1>
+            <slot_3>
+                <target>t</target>
+                <type>pet</type>
+                <action>Assault</action>
+                <alias>Assault</alias>
+            </slot_3>
+        </hotbar_1>
+    </field>
+</hotbar>

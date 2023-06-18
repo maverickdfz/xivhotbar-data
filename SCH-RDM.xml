@@ -1,0 +1,1386 @@
+<hotbar>
+    <field>
+		<hotbar_2>
+			<slot_9>
+				<type>wc</type>
+				<action>trusts fight</action>
+				<alias>Trusts</alias>
+			</slot_9>
+			<slot_0>
+                <icon>return-trust</icon>
+                <type>ct</type>
+                <action>returntrust all</action>
+                <alias>No Trusts</alias>
+            </slot_0>
+		</hotbar_2>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+    </field>
+	<battle>
+		<hotbar_2>
+			<slot_9>
+				<type>wc</type>
+				<action>trusts fight</action>
+				<alias>Trusts</alias>
+			</slot_9>
+			<slot_0>
+                <icon>return-trust</icon>
+                <type>ct</type>
+                <action>returntrust all</action>
+                <alias>No Trusts</alias>
+            </slot_0>
+		</hotbar_2>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+    </battle>
+	<light_arts>
+		<hotbar_4>
+			<slot_1>
+				<type>ja</type>
+				<action>Penury</action>
+				<target>me</target>
+				<alias>Penury</alias>
+			</slot_1>
+			<slot_2>
+				<type>ja</type>
+				<action>Celerity</action>
+				<target>me</target>
+				<alias>Celerity</alias>
+			</slot_2>
+			<slot_3>
+				<type>ja</type>
+				<action>Rapture</action>
+				<target>me</target>
+				<alias>Rapture</alias>
+			</slot_3>
+			<slot_4>
+				<type>ja</type>
+				<action>Accession</action>
+				<target>me</target>
+				<alias>Accession</alias>
+			</slot_4>
+			<slot_5>
+				<type>ja</type>
+				<action>Perpetuance</action>
+				<target>me</target>
+				<alias>Perpetuance</alias>
+			</slot_5>
+		</hotbar_4>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+	</light_arts>
+	<dark_arts>
+		<hotbar_4>
+			<slot_1>
+				<type>ja</type>
+				<action>Parsimony</action>
+				<target>me</target>
+				<alias>Parsimony</alias>
+			</slot_1>
+			<slot_2>
+				<type>ja</type>
+				<action>Alacrity</action>
+				<target>me</target>
+				<alias>Alacrity</alias>
+			</slot_2>
+			<slot_3>
+				<type>ja</type>
+				<action>Ebullience</action>
+				<target>me</target>
+				<alias>Ebullience</alias>
+			</slot_3>
+			<slot_4>
+				<type>ja</type>
+				<action>Manifestation</action>
+				<target>me</target>
+				<alias>Manifestation</alias>
+			</slot_4>
+			<slot_5>
+				<type>ja</type>
+				<action>Immanence</action>
+				<target>me</target>
+				<alias>Immanence</alias>
+			</slot_5>
+		</hotbar_4>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+	</dark_arts>
+	<enfeebling>
+		<hotbar_4>
+			<slot_1>
+				<type>ma</type>
+				<action>Geohelix II</action>
+				<target>t</target>
+				<alias>Geohelix 2</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Anemohelix II</action>
+				<target>t</target>
+				<alias>Anemohelix 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Hydrohelix II</action>
+				<target>t</target>
+				<alias>Hydrohelix 2</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Pyrohelix II</action>
+				<target>t</target>
+				<alias>Pyrohelix 2</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Cryohelix II</action>
+				<target>t</target>
+				<alias>Cryohelix 2</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Ionohelix II</action>
+				<target>t</target>
+				<alias>Ionohelix 2</alias>
+			</slot_6>
+			<slot_7>
+				<type>ma</type>
+				<action>Luminohelix II</action>
+				<target>t</target>
+				<alias>Luminohelix 2</alias>
+			</slot_7>
+			<slot_8>
+				<type>ma</type>
+				<action>Noctohelix II</action>
+				<target>t</target>
+				<alias>Noctohelix 2</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Blind</action>
+				<target>t</target>
+				<alias>Blind</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Bind</action>
+				<target>t</target>
+				<alias>Bind</alias>
+			</slot_0>
+		</hotbar_4>
+        <hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Rasp</action>
+				<target>t</target>
+				<alias>Rasp</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Drown</action>
+				<target>t</target>
+				<alias>Drown</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Choke</action>
+				<target>t</target>
+				<alias>Choke</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Burn</action>
+				<target>t</target>
+				<alias>Burn</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Frost</action>
+				<target>t</target>
+				<alias>Frost</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Shock</action>
+				<target>t</target>
+				<alias>Shock</alias>
+			</slot_6>
+			<slot_7>
+				<type>ma</type>
+				<action>Poison II</action>
+				<target>t</target>
+				<alias>Poison 2</alias>
+			</slot_7>
+			<slot_8>
+				<type>ma</type>
+				<action>Sleep</action>
+				<target>t</target>
+				<alias>Sleep</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Sleep II</action>
+				<target>t</target>
+				<alias>Sleep 2</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Kaustra</action>
+				<target>t</target>
+				<alias>Kaustra</alias>
+			</slot_0>
+        </hotbar_3>
+		<hotbar_2>
+            <slot_6>
+				<type>ma</type>
+				<action>Bio II</action>
+				<target>t</target>
+				<alias>Bio 2</alias>
+			</slot_6>
+			<slot_7>
+				<type>ma</type>
+				<action>Sleepga</action>
+				<target>t</target>
+				<alias>Sleepga</alias>
+			</slot_7>
+			<slot_8>
+				<type>ma</type>
+				<action>Stun</action>
+				<target>t</target>
+				<alias>Stun</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Dispel</action>
+				<target>t</target>
+				<alias>Dispel</alias>
+			</slot_9>
+            <slot_0>
+				<type>ma</type>
+				<action>Break</action>
+				<target>t</target>
+				<alias>Break</alias>
+			</slot_0>
+		</hotbar_2>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+	</enfeebling>
+    <enhancing>
+        <hotbar_4>
+			<slot_1>
+				<type>ma</type>
+				<action>Embrava</action>
+				<target>t</target>
+				<alias>Embrava</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Adloquium</action>
+				<target>t</target>
+				<alias>Adloquium</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Protect V</action>
+				<target>t</target>
+				<alias>Protect 5</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Shell V</action>
+				<target>t</target>
+				<alias>Shell 5</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Phalanx II</action>
+				<target>t</target>
+				<alias>Phalanx 2</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Stoneskin</action>
+				<target>t</target>
+				<alias>Stoneskin</alias>
+			</slot_6>
+			<slot_7>
+				<type>ma</type>
+				<action>Blink</action>
+				<target>t</target>
+				<alias>Blink</alias>
+			</slot_7>
+			<slot_8>
+				<type>ma</type>
+				<action>Aquaveil</action>
+				<target>t</target>
+				<alias>Aquaveil</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Animus Augeo</action>
+				<target>t</target>
+				<alias>Animus Augeo</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Animus Minuo</action>
+				<target>t</target>
+				<alias>Animus Minuo</alias>
+			</slot_0>
+        </hotbar_4>
+		<hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Sandstorm</action>
+				<target>t</target>
+				<alias>Sandstorm</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Rainstorm</action>
+				<target>t</target>
+				<alias>Rainstorm</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Windstorm</action>
+				<target>t</target>
+				<alias>Windstorm</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Firestorm</action>
+				<target>t</target>
+				<alias>Firestorm</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Hailstorm</action>
+				<target>t</target>
+				<alias>Hailstorm</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Thunderstorm</action>
+				<target>t</target>
+				<alias>Thunderstorm</alias>
+			</slot_6>
+			<slot_7>
+				<type>ma</type>
+				<action>Aurorastorm</action>
+				<target>t</target>
+				<alias>Aurorastorm</alias>
+			</slot_7>
+			<slot_8>
+				<type>ma</type>
+				<action>Voidstorm</action>
+				<target>t</target>
+				<alias>Voidstorm</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Klimaform</action>
+				<target>t</target>
+				<alias>Klimaform</alias>
+			</slot_9>
+		</hotbar_3>
+		<hotbar_2>
+			<slot_1>
+				<type>ma</type>
+				<action>Reraise III</action>
+				<target>me</target>
+				<alias>Reraise</alias>
+			</slot_1>
+		</hotbar_2>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+    </enhancing>
+	<elemental>
+		<hotbar_4>
+			<slot_1>
+				<type>ma</type>
+				<action>Stone V</action>
+				<target>t</target>
+				<alias>Stone 5</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Water V</action>
+				<target>t</target>
+				<alias>Water 5</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Aero V</action>
+				<target>t</target>
+				<alias>Aero 5</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Fire V</action>
+				<target>t</target>
+				<alias>Fire 5</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Blizzard V</action>
+				<target>t</target>
+				<alias>Blizz 5</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Thunder V</action>
+				<target>t</target>
+				<alias>Thunder 5</alias>
+			</slot_6>
+		</hotbar_4>
+		<hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Stone IV</action>
+				<target>t</target>
+				<alias>Stone 4</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Water IV</action>
+				<target>t</target>
+				<alias>Water 4</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Aero IV</action>
+				<target>t</target>
+				<alias>Aero 4</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Fire IV</action>
+				<target>t</target>
+				<alias>Fire 4</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Blizzard IV</action>
+				<target>t</target>
+				<alias>Blizz 4</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Thunder IV</action>
+				<target>t</target>
+				<alias>Thunder 4</alias>
+			</slot_6>
+		</hotbar_3>
+		<hotbar_2>
+			<slot_1>
+				<type>ma</type>
+				<action>Stone III</action>
+				<target>t</target>
+				<alias>Stone 3</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Water III</action>
+				<target>t</target>
+				<alias>Water 3</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Aero III</action>
+				<target>t</target>
+				<alias>Aero 3</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Fire III</action>
+				<target>t</target>
+				<alias>Fire 3</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Blizzard III</action>
+				<target>t</target>
+				<alias>Blizz 3</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Thunder III</action>
+				<target>t</target>
+				<alias>Thunder 3</alias>
+			</slot_6>
+		</hotbar_2>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+    </elemental>
+	<dark>
+		<hotbar_4>
+			<slot_1>
+				<type>ma</type>
+				<action>Drain</action>
+				<target>t</target>
+				<alias>Drain</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Aspir</action>
+				<target>t</target>
+				<alias>Aspir</alias>
+			</slot_2>
+		</hotbar_4>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+	</dark>
+	<healing>
+		<hotbar_4>
+			<slot_1>
+				<type>ma</type>
+				<action>Cure</action>
+				<target>t</target>
+				<alias>Cure</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Cure II</action>
+				<target>t</target>
+				<alias>Cure 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>t</target>
+				<alias>Cure 3</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>t</target>
+				<alias>Cure 4</alias>
+			</slot_4>
+			<slot_5>
+                <type>ja</type>
+                <action>Accession</action>
+				<target>me</target>
+                <alias>Accession</alias>
+            </slot_5>
+		</hotbar_4>
+		<hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Regen</action>
+				<target>t</target>
+				<alias>Regen</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Regen II</action>
+				<target>t</target>
+				<alias>Regen 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Regen III</action>
+				<target>t</target>
+				<alias>Regen 3</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Regen IV</action>
+				<target>t</target>
+				<alias>Regen 4</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Regen V</action>
+				<target>t</target>
+				<alias>Regen 5</alias>
+			</slot_5>
+		</hotbar_3>
+		<hotbar_2>
+			<slot_5>
+				<type>ma</type>
+				<action>Erase</action>
+				<target>t</target>
+				<alias>Erase</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Cursna</action>
+				<target>t</target>
+				<alias>Cursna</alias>
+			</slot_6>
+			<slot_7>
+				<type>ma</type>
+				<action>Silena</action>
+				<target>t</target>
+				<alias>Silena</alias>
+			</slot_7>
+			<slot_8>
+				<type>ma</type>
+				<action>Blindna</action>
+				<target>t</target>
+				<alias>Blindna</alias>
+			</slot_8>
+			<slot_9>
+				<type>ma</type>
+				<action>Paralyna</action>
+				<target>t</target>
+				<alias>Paralyna</alias>
+			</slot_9>
+			<slot_0>
+				<type>ma</type>
+				<action>Poisona</action>
+				<target>t</target>
+				<alias>Poisona</alias>
+			</slot_0>
+		</hotbar_2>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+	</healing>
+	<items>
+		<hotbar_2>
+			<slot_6>
+				<type>item</type>
+				<action>Echo Drops</action>
+				<target>me</target>
+				<alias>Echo Drops</alias>
+			</slot_6>
+		</hotbar_2>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+	</items>
+	<party>
+		<hotbar_4>
+			<slot_1>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>p0</target>
+				<alias>Pl 1</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>p1</target>
+				<alias>Pl 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>p2</target>
+				<alias>Pl 3</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>p3</target>
+				<alias>Pl 4</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>p4</target>
+				<alias>Pl 5</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Cure IV</action>
+				<target>p5</target>
+				<alias>Pl 6</alias>
+			</slot_6>
+		</hotbar_4>
+		<hotbar_3>
+			<slot_1>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>p0</target>
+				<alias>Pl 1</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>p1</target>
+				<alias>Pl 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>p2</target>
+				<alias>Pl 3</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>p3</target>
+				<alias>Pl 4</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>p4</target>
+				<alias>Pl 5</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Cure III</action>
+				<target>p5</target>
+				<alias>Pl 6</alias>
+			</slot_6>
+		</hotbar_3>
+		<hotbar_2>
+			<slot_1>
+				<type>ma</type>
+				<action>Haste II</action>
+				<target>p0</target>
+				<alias>Pl 1</alias>
+			</slot_1>
+			<slot_2>
+				<type>ma</type>
+				<action>Haste II</action>
+				<target>p1</target>
+				<alias>Pl 2</alias>
+			</slot_2>
+			<slot_3>
+				<type>ma</type>
+				<action>Haste II</action>
+				<target>p2</target>
+				<alias>Pl 3</alias>
+			</slot_3>
+			<slot_4>
+				<type>ma</type>
+				<action>Haste II</action>
+				<target>p3</target>
+				<alias>Pl 4</alias>
+			</slot_4>
+			<slot_5>
+				<type>ma</type>
+				<action>Haste II</action>
+				<target>p4</target>
+				<alias>Pl 5</alias>
+			</slot_5>
+			<slot_6>
+				<type>ma</type>
+				<action>Haste II</action>
+				<target>p5</target>
+				<alias>Pl 6</alias>
+			</slot_6>
+		</hotbar_2>
+        <hotbar_1>
+			<slot_1>
+                <type>ja</type>
+                <action>Light Arts</action>
+				<target>me</target>
+				<next_environment>light_arts</next_environment>
+                <alias>Light Arts</alias>
+            </slot_1>
+			<slot_2>
+                <type>ja</type>
+                <action>Addendum: White</action>
+				<target>me</target>
+                <alias>Addendum: White</alias>
+            </slot_2>
+			<slot_3>
+                <type>wc</type>
+                <action>htb environment healing</action>
+                <alias>Healing</alias>
+			</slot_3>
+			<slot_4>
+                <type>wc</type>
+                <action>htb environment enhancing</action>
+                <alias>Enhancing</alias>
+			</slot_4>
+			<slot_5>
+                <type>wc</type>
+                <action>htb environment field</action>
+                <alias>Field</alias>
+            </slot_5>
+			<slot_6>
+                <type>wc</type>
+                <action>htb environment dark</action>
+                <alias>Dark</alias>
+            </slot_6>
+			<slot_7>
+                <type>wc</type>
+                <action>htb environment enfeebling</action>
+                <alias>Enfeebling</alias>
+            </slot_7>
+			<slot_8>
+				<type>wc</type>
+				<action>htb environment elemental</action>
+				<alias>Elemental</alias>
+			</slot_8>
+			<slot_9>
+                <type>ja</type>
+                <action>Addendum: Black</action>
+				<target>me</target>
+                <alias>Addendum: Black</alias>
+            </slot_9>
+            <slot_0>
+                <type>ja</type>
+                <action>Dark Arts</action>
+				<target>me</target>
+				<next_environment>dark_arts</next_environment>
+                <alias>Dark Arts</alias>
+            </slot_0>
+        </hotbar_1>
+	</party>
+</hotbar>

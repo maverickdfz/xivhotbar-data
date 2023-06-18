@@ -1,0 +1,159 @@
+<hotbar>
+    <battle>
+        <hotbar_3>
+            <slot_1>
+                <type>ja</type>
+                <action>Curing Waltz</action>
+                <target>me</target>
+                <alias>Curing Waltz</alias>
+            </slot_1>
+            <slot_2>
+                <type>ja</type>
+                <action>Curing Waltz II</action>
+                <target>me</target>
+                <alias>Curing Waltz II</alias>
+            </slot_2>
+            <slot_3>
+                <type>ja</type>
+                <action>Curing Waltz III</action>
+                <target>me</target>
+                <alias>Curing Waltz III</alias>
+            </slot_3>
+            <slot_4>
+                <type>ja</type>
+                <action>Healing Waltz</action>
+                <target>me</target>
+                <alias>Healing Waltz</alias>
+            </slot_4>
+        </hotbar_3>
+        <hotbar_4>
+            <slot_1>
+                <type>ja</type>
+                <action>Quickstep</action>
+                <target>t</target>
+                <alias>Quickstep (EVA)</alias>
+            </slot_1>
+            <slot_2>
+                <type>ja</type>
+                <action>Box Step</action>
+                <target>t</target>
+                <alias>Box Step (DEF)</alias>
+            </slot_2>
+            <slot_3>
+                <type>ja</type>
+                <action>Stutter Step</action>
+                <target>t</target>
+                <alias>Stutter Step (MEVA)</alias>
+            </slot_3>
+            <slot_5>
+                <type>ja</type>
+                <action>Bully</action>
+                <target>t</target>
+                <alias>Bully</alias>
+            </slot_5>
+            <slot_6>
+                <type>ja</type>
+                <action>Feint</action>
+                <target>me</target>
+                <alias>Feint</alias>
+            </slot_6>
+            <slot_7>
+                <type>ja</type>
+                <action>Conspirator</action>
+                <target>me</target>
+                <alias>Conspirator</alias>
+            </slot_7>
+            <slot_0>
+                <type>ws</type>
+                <action>Exenterator</action>
+                <target>t</target>
+                <alias>Exenterator</alias>
+            </slot_0>
+        </hotbar_4>
+        <hotbar_2>
+            <slot_1>
+                <type>ja</type>
+                <action>Drain Samba II</action>
+                <target>me</target>
+                <alias>Drain Samba II</alias>
+            </slot_1>
+            <slot_2>
+                <type>ja</type>
+                <action>Haste Samba</action>
+                <target>me</target>
+                <alias>Haste Samba</alias>
+            </slot_2>
+        </hotbar_2>
+        <hotbar_1>
+            <slot_1>
+                <icon>disengage</icon>
+                <type>ct</type>
+                <action>attack off</action>
+                <alias>Disengage</alias>
+            </slot_1>
+            <slot_2>
+                <icon>check</icon>
+                <type>ct</type>
+                <action>check</action>
+                <alias>Check</alias>
+            </slot_2>
+        </hotbar_1>
+    </battle>
+    <field>
+        <hotbar_3>
+            <slot_1>
+                <type>ja</type>
+                <action>Spectral Jig</action>
+                <target>me</target>
+                <alias>Spectral Jig</alias>
+            </slot_1>
+        </hotbar_3>
+        <hotbar_4>
+            <slot_1>
+                <type>ja</type>
+                <action>Flee</action>
+                <target>me</target>
+                <alias>Flee</alias>
+            </slot_1>
+        </hotbar_4>
+        <hotbar_2></hotbar_2>
+        <hotbar_1>
+            <slot_0>
+                <icon>heal</icon>
+                <type>ct</type>
+                <action>heal</action>
+                <alias>Heal</alias>
+            </slot_0>
+            <slot_9>
+                <icon>return-trust</icon>
+                <type>ct</type>
+                <action>returntrust all</action>
+                <alias>No Trusts</alias>
+            </slot_9>
+            <slot_2>
+                <icon>check</icon>
+                <type>ct</type>
+                <action>check</action>
+                <alias>Check</alias>
+            </slot_2>
+            <slot_1>
+                <icon>attack</icon>
+                <type>ct</type>
+                <action>attack on</action>
+                <alias>Attack</alias>
+            </slot_1>
+            <slot_7>
+                <type>ct</type>
+                <action>mount Levitus</action>
+                <target>me</target>
+                <alias>Levitus</alias>
+                <icon>mounts/mount-levitus</icon>
+            </slot_7>
+            <slot_8>
+                <type>wc</type>
+                <action>trusts buffs</action>
+                <alias>Trusts</alias>
+            </slot_8>
+        </hotbar_1>
+    </field>
+</hotbar>
